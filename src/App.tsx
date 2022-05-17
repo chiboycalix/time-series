@@ -1,7 +1,7 @@
 import './App.css';
 import Home from './modules/app/components/home.component';
 import RealTimeDataProvider from './store/RealTimeDataProvider';
-import ErrorBoundary from './hoc/ErrorBoundary'
+import ErrorBoundary from './ErrorBoundary';
 
 function App() {
   return (
